@@ -1,6 +1,6 @@
 <?php require_once('comunes/top.php') ?>
    
-<div class="gallery">
+<div class="gallery"> 
 
 	<div class="container">
 	<div class="col-md-4 content-pro-head content-pro-head3">
