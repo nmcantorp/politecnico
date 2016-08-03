@@ -1,0 +1,182 @@
+<?php require_once('comunes/top.php') ?>
+
+<div class="about">
+
+	<div class="container">
+	<div class="col-md-4 content-pro-head content-pro-head3">
+			<h3>About</h3>
+			<p>Many desktop publishing packages and web page editors now use Lorem Ipsum  Ipsum as their default model text now use Lorem Ipsum as their default model text, packages and web page editors now use Lorem Ipsum now use Lorem Ipsum as their default model text, and a as their default model text, lorem ipsum' will uncover many</p>
+		
+    </div>
+  <div class="col-md-8 content-pro-head1">
+   		<div class="col-md-6 about-im">
+			<img src="images/a1.jpg" class="img-responsive" alt=" ">
+		</div>
+		<div class="col-md-6 about-im">
+			<img src="images/a2.jpg" class="img-responsive" alt=" ">
+		</div>
+		<div class="clearfix"> </div>
+  </div>
+  
+	<div class="clearfix"> </div>
+	</div>
+</div>
+<!---->
+<div class="why">
+
+	<div class="container">
+	
+  <div class="col-md-8 content-pro-head1">
+   		<div class="col-md-6 why-text ">
+					<i class="glyphicon glyphicon-star "> </i>
+					<h4>Lorem Ipsum</h4>
+					<p>Masagni dolores eoquie voluptaquisquam estqui dolorem ipsumquia dolor sitamnetase adipiscquam eiuse. Basmodi temporant</p>
+				</div>
+				<div class="col-md-6 why-text ">
+					<i class="glyphicon glyphicon-glass"> </i>
+					<h4>Lorem Ipsum1</h4>
+					<p>Masagni dolores eoquie voluptaquisquam estqui dolorem ipsumquia dolor sitamnetase adipiscquam eiuse. Basmodi temporant</p>
+				</div>
+				<div class="col-md-6 why-text ">
+					<i class="glyphicon glyphicon-user"> </i>
+					<h4>Lorem Ipsum2</h4>
+					<p>Masagni dolores eoquie voluptaquisquam estqui dolorem ipsumquia dolor sitamnetase adipiscquam eiuse. Basmodi temporant</p>
+				</div>
+				<div class="col-md-6 why-text ">
+					<i class="glyphicon glyphicon-lock "> </i>
+					<h4>Lorem Ipsum3</h4>
+					<p>Masagni dolores eoquie voluptaquisquam estqui dolorem ipsumquia dolor sitamnetase adipiscquam eiuse. Basmodi temporant</p>
+				</div>
+		<div class="clearfix"> </div>
+  </div>
+  <div class="col-md-4 content-pro-head why-head">
+			<h3>Why Choose Us</h3>
+			<p>Many desktop publishing packages and web page editors now use Lorem Ipsum  Ipsum as their default model text now use Lorem Ipsum as their default model text, packages and web page editors now use Lorem Ipsum now use Lorem Ipsum as their default model text, and a as their default model text, lorem ipsum' will uncover many</p>
+		
+    </div>
+	<div class="clearfix"> </div>
+	</div>
+</div>
+<!---->
+
+  <!---->
+ <div class="content-pro">
+	<div class="container">
+		<div class="col-md-4 content-pro-head content-pro-head2">
+			<h3>Our Services</h3>
+			<p>Many desktop publishing packages and web page editors now use Lorem Ipsum  Ipsum as their default model text now use Lorem Ipsum as their default model text, packages and web page editors now use Lorem Ipsum now use Lorem Ipsum as their default model text, and a as their default model text, lorem ipsum' will uncover many</p>
+		
+    </div>
+  <div class="col-md-8 content-pro-head1">
+   	<ul id="flexiselDemo1">			
+				<li>
+					<div class="laptop">
+							<div class="img-box"><img class="img-responsive zoom-img" src="images/pi.jpg" alt=" " /></div>
+							<div class="flex-info ">
+									<h4>Services1</h4>
+									<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+							</div>
+						</div>
+					
+				</li>
+				<li>
+					<div class="laptop">
+							<div class="img-box"><img class="img-responsive zoom-img" src="images/pi1.jpg" alt=" " /></div>
+							<div class="flex-info flex-info1">
+									<h4>Services2</h4>
+									<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+							</div>
+						</div>
+					
+				</li>
+				<li>
+					<div class="laptop">
+							<div class="img-box"><img class="img-responsive zoom-img" src="images/pi2.jpg" alt=" " /></div>
+							<div class="flex-info flex-info2">
+									<h4>Services3</h4>
+									<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+							</div>
+							</div>
+						
+				</li>
+				<li>
+					<div class="laptop">
+							<div class="img-box"><img class="img-responsive zoom-img" src="images/pi3.jpg" alt=" " /></div>
+							<div class="flex-info flex-info3">
+									<h4>Services4</h4>
+									<p>Sit accusamus, vel blanditiis iure minima ipsa molestias minus laborum velit, nulla nisi hic quasi enim.</p>
+							</div>
+							</div>
+						
+				</li>
+			</ul>
+		
+  </div>
+	<div class="clearfix"> </div>
+	</div>
+</div>
+<!---->
+<!---->
+ <div class="content-pro content-pro1">
+	<div class="container">
+	<div class="col-md-4 content-pro-head team-t">
+			<h3>Our Team</h3>
+			<p>Many desktop publishing packages and web page editors now use Lorem Ipsum  Ipsum as their default model text now use Lorem Ipsum as their default model text, packages and web page editors now use Lorem Ipsum now use Lorem Ipsum as their default model text, and a as their default model text, lorem ipsum' will uncover many</p>
+		
+    </div>
+  <div class="col-md-8 content-pro-head1 team-t1">
+   	<div class="col-md-4 bottom-grid ">
+			<div class="btm-right">
+				<img src="images/te.jpg" class="img-responsive" alt=" ">
+					<div class="captn">						
+							<h4>Victoria</h4>
+							<p>Ceo</p>
+						<ul class="social-ic">
+			<li><a href="#"><i></i></a></li>
+			<li><a href="#"><i class="ic"></i></a></li>
+			<li><a href="#"><i class="ic1"></i></a></li>
+			<li><a href="#"><i class="ic2"></i></a></li>
+		</ul>
+					</div>
+			</div>
+		</div>
+		<div class="col-md-4 bottom-grid ">
+			<div class="btm-right">
+				<img src="images/te1.jpg" class="img-responsive" alt=" ">
+					<div class="captn">
+					
+							<h4>Adley</h4>
+						<p>Manager</p>
+						<ul class="social-ic">
+			<li><a href="#"><i></i></a></li>
+			<li><a href="#"><i class="ic"></i></a></li>
+			<li><a href="#"><i class="ic1"></i></a></li>
+			<li><a href="#"><i class="ic2"></i></a></li>
+		</ul>
+					</div>
+			</div>
+		</div>
+		<div class="col-md-4 bottom-grid ">
+			<div class="btm-right">
+				<img src="images/te2.jpg" class="img-responsive" alt=" ">
+					<div class="captn">
+						
+							<h4>Immortal</h4>
+						<p>Engineer</p>
+						<ul class="social-ic">
+			<li><a href="#"><i></i></a></li>
+			<li><a href="#"><i class="ic"></i></a></li>
+			<li><a href="#"><i class="ic1"></i></a></li>
+			<li><a href="#"><i class="ic2"></i></a></li>
+		</ul>
+					</div>
+			</div>
+		</div>
+
+  </div>
+  
+	<div class="clearfix"> </div>
+	</div>
+</div>
+<!--//-->
+<?php require_once('comunes/bottom.php') ?>
